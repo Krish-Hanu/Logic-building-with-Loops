@@ -15,7 +15,6 @@ int main()
                 count++;
                 printf("%d ", j);
             }
-           
         }
        printf("\n");
        printf("Total factor: %d", count);
